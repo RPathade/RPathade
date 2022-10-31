@@ -1,7 +1,7 @@
-👋 Hi, I’m Rutuja
-👀 I’m interested in Machine Learning
-💞️ I’m looking to collaborate on similar projects
-📫 Reach me at rpathade@scu.edu
+👋 Hi, I’m Rutuja<br />
+👀 I’m interested in Machine Learning<br />
+💞️ I’m looking to collaborate on similar projects<br />
+📫 Reach me at rpathade@scu.edu<br />
 
 
 
