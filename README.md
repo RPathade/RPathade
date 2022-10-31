@@ -3,7 +3,7 @@
 💞️ I’m looking to collaborate on similar projects
 📫 Reach me at rpathade@scu.edu
 
-![](Rutuja_Git.gif)
+![](file:///C:/Users/Ravi/OneDrive/Desktop/Rutuja_Git.gif)
 
 <!---
 RPathade/RPathade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
